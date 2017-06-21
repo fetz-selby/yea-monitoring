@@ -1,0 +1,59 @@
+<!--
+@license
+Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+Code distributed by Google as part of the polymer project is also
+subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+-->
+
+<link rel="import" href="../bower_components/polymer/polymer-element.html">
+<link rel="import" href="map-element.html">
+
+<link rel="import" href="shared-styles.html">
+
+<dom-module id="settings-view">
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+
+        padding: 10px;
+      }
+    </style>
+
+
+    <div class="display">
+      <div>{{district}}</div>
+      <div>{{region}}</div>
+    </div>
+
+     <iron-pages selected="[[page]]" attr-for-selected="name" fallback-selection="view404" role="main">
+      <map-element on-tapreq="_onMapTap" on-hoverreq="_onMapHovered" name="map"></map-element>
+     </iron-pages>
+
+    <div class="card">
+      <div class="circle">S</div>
+      <map-element></map-element>
+    </div>
+  </template>
+
+  <script>
+    class Settings extends Polymer.Element {
+      static get is() { return 'settings-view'; }
+    
+
+    _onMapTap(){
+      console.log('kjkikknlkklk');
+      console.log(e.detail.data.NAME1__);
+    }
+
+    _onMapHovered(){
+      console.log(e.detail.data.NAME2__);
+    }
+  }
+
+    window.customElements.define(Settings.is, Settings);
+  </script>
+</dom-module>

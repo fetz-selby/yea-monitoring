@@ -1,0 +1,446 @@
+[
+  {
+    "DISTRICT_ID": "01-01",
+    "DISTRICT_NAME": "Jomoro"
+  },
+  {
+    "DISTRICT_ID": "01-03",
+    "DISTRICT_NAME": "Nzema East"
+  },
+  {
+    "DISTRICT_ID": "01-04",
+    "DISTRICT_NAME": "Ahanta West"
+  },
+  {
+    "DISTRICT_ID": "01-06",
+    "DISTRICT_NAME": "Shama"
+  },
+  {
+    "DISTRICT_ID": "01-07",
+    "DISTRICT_NAME": "Wassa East"
+  },
+  {
+    "DISTRICT_ID": "01-10",
+    "DISTRICT_NAME": "Wassa Amenfi East"
+  },
+  {
+    "DISTRICT_ID": "01-12",
+    "DISTRICT_NAME": "Aowin"
+  },
+  {
+    "DISTRICT_ID": "01-17",
+    "DISTRICT_NAME": "Bia"
+  },
+  {
+    "DISTRICT_ID": "02-01",
+    "DISTRICT_NAME": "Komenda Edina Egyafo/Abirem"
+  },
+  {
+    "DISTRICT_ID": "02-02",
+    "DISTRICT_NAME": "Cape Coast Metro"
+  },
+  {
+    "DISTRICT_ID": "02-03",
+    "DISTRICT_NAME": "Abura/Asebu/Kwamankese"
+  },
+  {
+    "DISTRICT_ID": "02-04",
+    "DISTRICT_NAME": "Mfantsiman "
+  },
+  {
+    "DISTRICT_ID": "02-05",
+    "DISTRICT_NAME": "Ajumako-Enyan-Esiam"
+  },
+  {
+    "DISTRICT_ID": "02-06",
+    "DISTRICT_NAME": "Gomoa West"
+  },
+  {
+    "DISTRICT_ID": "02-10",
+    "DISTRICT_NAME": "Agona East "
+  },
+  {
+    "DISTRICT_ID": "02-12",
+    "DISTRICT_NAME": "Asikuma/Odoben/Brakwa"
+  },
+  {
+    "DISTRICT_ID": "02-13",
+    "DISTRICT_NAME": "Assin South"
+  },
+  {
+    "DISTRICT_ID": "02-14",
+    "DISTRICT_NAME": "Assin North "
+  },
+  {
+    "DISTRICT_ID": "02-15",
+    "DISTRICT_NAME": "Twifo Lower Denkyira"
+  },
+  {
+    "DISTRICT_ID": "03-01",
+    "DISTRICT_NAME": "Ga South "
+  },
+  {
+    "DISTRICT_ID": "03-02",
+    "DISTRICT_NAME": "Ga West "
+  },
+  {
+    "DISTRICT_ID": "03-03",
+    "DISTRICT_NAME": "Ga East "
+  },
+  {
+    "DISTRICT_ID": "03-04",
+    "DISTRICT_NAME": "Accra Metropolis"
+  },
+  {
+    "DISTRICT_ID": "03-08",
+    "DISTRICT_NAME": "Tema Metropolis"
+  },
+  {
+    "DISTRICT_ID": "03-09",
+    "DISTRICT_NAME": "Dangbe West"
+  },
+  {
+    "DISTRICT_ID": "03-10",
+    "DISTRICT_NAME": "Dangbe East"
+  },
+  {
+    "DISTRICT_ID": "03-14",
+    "DISTRICT_NAME": "Ningo Prampram"
+  },
+  {
+    "DISTRICT_ID": "04-01",
+    "DISTRICT_NAME": "South Tongu"
+  },
+  {
+    "DISTRICT_ID": "04-02",
+    "DISTRICT_NAME": "Keta Municipal"
+  },
+  {
+    "DISTRICT_ID": "04-03",
+    "DISTRICT_NAME": "Ketu South"
+  },
+  {
+    "DISTRICT_ID": "04-05",
+    "DISTRICT_NAME": "Akatsi South"
+  },
+  {
+    "DISTRICT_ID": "04-06",
+    "DISTRICT_NAME": "North Tongu"
+  },
+  {
+    "DISTRICT_ID": "04-08",
+    "DISTRICT_NAME": "Ho Municipal"
+  },
+  {
+    "DISTRICT_ID": "04-13",
+    "DISTRICT_NAME": "Jasikan"
+  },
+  {
+    "DISTRICT_ID": "04-14",
+    "DISTRICT_NAME": "Kadjebi"
+  },
+  {
+    "DISTRICT_ID": "04-15",
+    "DISTRICT_NAME": "Krachi East"
+  },
+  {
+    "DISTRICT_ID": "04-16",
+    "DISTRICT_NAME": "Krachi West"
+  },
+  {
+    "DISTRICT_ID": "04-17",
+    "DISTRICT_NAME": "Nkwanta South"
+  },
+  {
+    "DISTRICT_ID": "04-18",
+    "DISTRICT_NAME": "Nkwanta North"
+  },
+  {
+    "DISTRICT_ID": "05-03",
+    "DISTRICT_NAME": "West Akim "
+  },
+  {
+    "DISTRICT_ID": "05-05",
+    "DISTRICT_NAME": "Akwapem South"
+  },
+  {
+    "DISTRICT_ID": "05-07",
+    "DISTRICT_NAME": "New Juaben"
+  },
+  {
+    "DISTRICT_ID": "05-08",
+    "DISTRICT_NAME": "Yilo Krobo"
+  },
+  {
+    "DISTRICT_ID": "05-10",
+    "DISTRICT_NAME": "Asuogyaman"
+  },
+  {
+    "DISTRICT_ID": "05-11",
+    "DISTRICT_NAME": "Upper Manya"
+  },
+  {
+    "DISTRICT_ID": "05-12",
+    "DISTRICT_NAME": "Fanteakwa"
+  },
+  {
+    "DISTRICT_ID": "05-14",
+    "DISTRICT_NAME": "Kwaebibirem"
+  },
+  {
+    "DISTRICT_ID": "05-18",
+    "DISTRICT_NAME": "Kwahu West"
+  },
+  {
+    "DISTRICT_ID": "05-21",
+    "DISTRICT_NAME": "Kwahu North"
+  },
+  {
+    "DISTRICT_ID": "05-25",
+    "DISTRICT_NAME": "Upper West Akim"
+  },
+  {
+    "DISTRICT_ID": "06-01",
+    "DISTRICT_NAME": "Atwima Mponua"
+  },
+  {
+    "DISTRICT_ID": "06-02",
+    "DISTRICT_NAME": "Amansie West"
+  },
+  {
+    "DISTRICT_ID": "06-05",
+    "DISTRICT_NAME": "Obuasi Municipal"
+  },
+  {
+    "DISTRICT_ID": "06-06",
+    "DISTRICT_NAME": "Adansi North"
+  },
+  {
+    "DISTRICT_ID": "06-10",
+    "DISTRICT_NAME": "Asante Akim Central Municipal"
+  },
+  {
+    "DISTRICT_ID": "06-14",
+    "DISTRICT_NAME": "Kumasi"
+  },
+  {
+    "DISTRICT_ID": "06-15",
+    "DISTRICT_NAME": "Atwima Nwabiagya"
+  },
+  {
+    "DISTRICT_ID": "06-16",
+    "DISTRICT_NAME": "Ahafo Ano South"
+  },
+  {
+    "DISTRICT_ID": "06-17",
+    "DISTRICT_NAME": "Ahafo Ano North"
+  },
+  {
+    "DISTRICT_ID": "06-25",
+    "DISTRICT_NAME": "Sekyere Central"
+  },
+  {
+    "DISTRICT_ID": "06-26",
+    "DISTRICT_NAME": "Ejura Sekye Dumase"
+  },
+  {
+    "DISTRICT_ID": "06-28",
+    "DISTRICT_NAME": "Asante Akim North"
+  },
+  {
+    "DISTRICT_ID": "07-03",
+    "DISTRICT_NAME": "Asutifi North"
+  },
+  {
+    "DISTRICT_ID": "07-03",
+    "DISTRICT_NAME": "Asutifi North"
+  },
+  {
+    "DISTRICT_ID": "07-12",
+    "DISTRICT_NAME": "Jaman North"
+  },
+  {
+    "DISTRICT_ID": "07-13",
+    "DISTRICT_NAME": "Tain"
+  },
+  {
+    "DISTRICT_ID": "07-14",
+    "DISTRICT_NAME": "Wenchi"
+  },
+  {
+    "DISTRICT_ID": "07-15",
+    "DISTRICT_NAME": "Techiman Municipal"
+  },
+  {
+    "DISTRICT_ID": "07-18",
+    "DISTRICT_NAME": "Atebubu Amantin"
+  },
+  {
+    "DISTRICT_ID": "07-19",
+    "DISTRICT_NAME": "Sene"
+  },
+  {
+    "DISTRICT_ID": "07-20",
+    "DISTRICT_NAME": "Pru"
+  },
+  {
+    "DISTRICT_ID": "07-21",
+    "DISTRICT_NAME": "Kintampo South"
+  },
+  {
+    "DISTRICT_ID": "07-22",
+    "DISTRICT_NAME": "Kintampo North"
+  },
+  {
+    "DISTRICT_ID": "08-01",
+    "DISTRICT_NAME": "Bole"
+  },
+  {
+    "DISTRICT_ID": "08-02",
+    "DISTRICT_NAME": "Sawla/Tuna/Kalba"
+  },
+  {
+    "DISTRICT_ID": "08-03",
+    "DISTRICT_NAME": "Gonja West"
+  },
+  {
+    "DISTRICT_ID": "08-04",
+    "DISTRICT_NAME": "Gonja Central"
+  },
+  {
+    "DISTRICT_ID": "08-05",
+    "DISTRICT_NAME": "East Gonja"
+  },
+  {
+    "DISTRICT_ID": "08-07",
+    "DISTRICT_NAME": "Nanumba South"
+  },
+  {
+    "DISTRICT_ID": "08-07",
+    "DISTRICT_NAME": "Nanumba South"
+  },
+  {
+    "DISTRICT_ID": "08-08",
+    "DISTRICT_NAME": "Nanumba North"
+  },
+  {
+    "DISTRICT_ID": "08-09",
+    "DISTRICT_NAME": "Zabzugu"
+  },
+  {
+    "DISTRICT_ID": "08-10",
+    "DISTRICT_NAME": "Yendi Municipal"
+  },
+  {
+    "DISTRICT_ID": "08-12",
+    "DISTRICT_NAME": "Tolon"
+  },
+  {
+    "DISTRICT_ID": "08-13",
+    "DISTRICT_NAME": "Savelugu Nanton"
+  },
+  {
+    "DISTRICT_ID": "08-14",
+    "DISTRICT_NAME": "Karaga"
+  },
+  {
+    "DISTRICT_ID": "08-15",
+    "DISTRICT_NAME": "Gushiegu"
+  },
+  {
+    "DISTRICT_ID": "08-16",
+    "DISTRICT_NAME": "Saboba"
+  },
+  {
+    "DISTRICT_ID": "08-17",
+    "DISTRICT_NAME": "Chereponi"
+  },
+  {
+    "DISTRICT_ID": "08-18",
+    "DISTRICT_NAME": "Bunkpurugu Yonyo"
+  },
+  {
+    "DISTRICT_ID": "08-19",
+    "DISTRICT_NAME": "Mamprusi East"
+  },
+  {
+    "DISTRICT_ID": "08-20",
+    "DISTRICT_NAME": "West Mamprusi"
+  },
+  {
+    "DISTRICT_ID": "09-01",
+    "DISTRICT_NAME": "Builsa"
+  },
+  {
+    "DISTRICT_ID": "09-02",
+    "DISTRICT_NAME": "Kasena Nankana West"
+  },
+  {
+    "DISTRICT_ID": "09-03",
+    "DISTRICT_NAME": "Kasena Nankana East"
+  },
+  {
+    "DISTRICT_ID": "09-04",
+    "DISTRICT_NAME": "Bolgatanga Municipal"
+  },
+  {
+    "DISTRICT_ID": "09-05",
+    "DISTRICT_NAME": "Talensi"
+  },
+  {
+    "DISTRICT_ID": "09-06",
+    "DISTRICT_NAME": "Bongo"
+  },
+  {
+    "DISTRICT_ID": "09-07",
+    "DISTRICT_NAME": "Bawku West"
+  },
+  {
+    "DISTRICT_ID": "09-08",
+    "DISTRICT_NAME": "Garu Tempane"
+  },
+  {
+    "DISTRICT_ID": "09-09",
+    "DISTRICT_NAME": "Bawku Municipal"
+  },
+  {
+    "DISTRICT_ID": "09-12",
+    "DISTRICT_NAME": "Nabdam"
+  },
+  {
+    "DISTRICT_ID": "10-01",
+    "DISTRICT_NAME": "Wa West"
+  },
+  {
+    "DISTRICT_ID": "10-02",
+    "DISTRICT_NAME": "Wa Municipal"
+  },
+  {
+    "DISTRICT_ID": "10-03",
+    "DISTRICT_NAME": "Wa East"
+  },
+  {
+    "DISTRICT_ID": "10-04",
+    "DISTRICT_NAME": "Sissala East"
+  },
+  {
+    "DISTRICT_ID": "10-05",
+    "DISTRICT_NAME": "Nadowli-kaleo"
+  },
+  {
+    "DISTRICT_ID": "10-06",
+    "DISTRICT_NAME": "Jirapa"
+  },
+  {
+    "DISTRICT_ID": "10-07",
+    "DISTRICT_NAME": "Sissala West"
+  },
+  {
+    "DISTRICT_ID": "10-08",
+    "DISTRICT_NAME": "Lambussie Karni"
+  },
+  {
+    "DISTRICT_ID": "10-09",
+    "DISTRICT_NAME": "Lawra"
+  }
+]

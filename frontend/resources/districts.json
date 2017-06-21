@@ -1,0 +1,2162 @@
+[
+  {
+    "AREA_KM": 77.942,
+    "ID__": "AFRGHA003_05",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "ADENTA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 167547.3715,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 47.5751,
+    "ID__": "AFRGHA003_06",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "LEDZOKUKU / KROWOR",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 107394.6477,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1374.7382,
+    "ID__": "AFRGHA008_17",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "CHEREPONI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 858598.9975,
+    "d_id": "08-17"
+  },
+  {
+    "AREA_KM": 579.8588,
+    "ID__": "AFRGHA010_02",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "WA MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 476260.2616,
+    "d_id": "10-02"
+  },
+  {
+    "AREA_KM": 1188.5692,
+    "ID__": "AFRGHA010_06",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "JIRAPA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 628861.0066,
+    "d_id": "10-06"
+  },
+  {
+    "AREA_KM": 2050.3671,
+    "ID__": "AFRGHA010_07",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "SISSALA  WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 937781.7778,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 811.8688,
+    "ID__": "AFRGHA010_08",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "LAMBUSSIE KARNI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 619331.3793,
+    "d_id": "10-08"
+  },
+  {
+    "AREA_KM": 397.087,
+    "ID__": "AFRGHA009_04",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BOLGATANGA MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 440764.6594,
+    "d_id": "09-04"
+  },
+  {
+    "AREA_KM": 414.7576,
+    "ID__": "AFRGHA009_06",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BONGO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 348739.5858,
+    "d_id": "09-06"
+  },
+  {
+    "AREA_KM": 872.826,
+    "ID__": "AFRGHA009_02",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "KASENA NANKANA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 857251.9855,
+    "d_id": "09-02"
+  },
+  {
+    "AREA_KM": 1492.0203,
+    "ID__": "AFRGHA010_01",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "WA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 766695.9779,
+    "d_id": "10-01"
+  },
+  {
+    "AREA_KM": 4226.9602,
+    "ID__": "AFRGHA008_02",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "SAWLA/TUNA/KALBA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1224621.5899,
+    "d_id": "08-02"
+  },
+  {
+    "AREA_KM": 5092.8408,
+    "ID__": "AFRGHA010_04",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "SISSALA EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1362026.6097,
+    "d_id": "10-04"
+  },
+  {
+    "AREA_KM": 767.0433,
+    "ID__": "AFRGHA009_03",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "KASENA NANKANA EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 830574.2166,
+    "d_id": "09-03"
+  },
+  {
+    "AREA_KM": 1257.1375,
+    "ID__": "AFRGHA008_18",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "BUNKPURUGU YONYO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 657358.8776,
+    "d_id": "08-18"
+  },
+  {
+    "AREA_KM": 1060.9134,
+    "ID__": "AFRGHA009_08",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "GARU TEMPANE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 626172.0896,
+    "d_id": "09-08"
+  },
+  {
+    "AREA_KM": 1706.7612,
+    "ID__": "AFRGHA008_19",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "MAMPRUSI EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 868705.1677,
+    "d_id": "08-19"
+  },
+  {
+    "AREA_KM": 1071.1552,
+    "ID__": "AFRGHA009_07",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BAWKU WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 694738.1165,
+    "d_id": "09-07"
+  },
+  {
+    "AREA_KM": 570.0863,
+    "ID__": "AFRGHA007_05",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "DORMAA EAST",
+    "PARTS__": 1,
+    "POINTS__": 757,
+    "LENGTH__": 402852.2208,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 863.2498,
+    "ID__": "AFRGHA007_10",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "BEREKUM",
+    "PARTS__": 1,
+    "POINTS__": 759,
+    "LENGTH__": 527058.0765,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 755.3729,
+    "ID__": "AFRGHA007_11",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "JAMAN SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 751,
+    "LENGTH__": 450903.5301,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1059.3292,
+    "ID__": "AFRGHA007_09",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "SUNYANI WEST",
+    "PARTS__": 1,
+    "POINTS__": 752,
+    "LENGTH__": 703998.8278,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1411.9663,
+    "ID__": "AFRGHA007_02",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "ASUNAFO NORTH",
+    "PARTS__": 1,
+    "POINTS__": 760,
+    "LENGTH__": 780419.5526,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1386.6096,
+    "ID__": "AFRGHA007_17",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "NKORANZA NORTH",
+    "PARTS__": 1,
+    "POINTS__": 759,
+    "LENGTH__": 743196.7904,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1513.341,
+    "ID__": "AFRGHA007_21",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "KINTAMPO SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 766730.9707,
+    "d_id": "07-21"
+  },
+  {
+    "AREA_KM": 837.4256,
+    "ID__": "AFRGHA007_07",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "TANO NORTH",
+    "PARTS__": 1,
+    "POINTS__": 2081,
+    "LENGTH__": 618418.2621,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 423.7601,
+    "ID__": "AFRGHA004_04",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KETU NORTH",
+    "PARTS__": 1,
+    "POINTS__": 741,
+    "LENGTH__": 400190.9818,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 278.3149,
+    "ID__": "AFRGHA004_03",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KETU SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 734,
+    "LENGTH__": 290250.5864,
+    "d_id": "04-03"
+  },
+  {
+    "AREA_KM": 753.0838,
+    "ID__": "AFRGHA004_02",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KETA MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 735,
+    "LENGTH__": 500029.9067,
+    "d_id": "04-02"
+  },
+  {
+    "AREA_KM": 689.9112,
+    "ID__": "AFRGHA004_14",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KADJEBI",
+    "PARTS__": 1,
+    "POINTS__": 739,
+    "LENGTH__": 495967.0158,
+    "d_id": "04-14"
+  },
+  {
+    "AREA_KM": 643.5756,
+    "ID__": "AFRGHA004_01",
+    "NAME2__": "VOLTA",
+    "NAME1__": "SOUTH TONGU",
+    "PARTS__": 1,
+    "POINTS__": 731,
+    "LENGTH__": 567716.3845,
+    "d_id": "04-01"
+  },
+  {
+    "AREA_KM": 555.8104,
+    "ID__": "AFRGHA004_13",
+    "NAME2__": "VOLTA",
+    "NAME1__": "JASIKAN",
+    "PARTS__": 1,
+    "POINTS__": 738,
+    "LENGTH__": 558646.4951,
+    "d_id": "04-13"
+  },
+  {
+    "AREA_KM": 2759.4076,
+    "ID__": "AFRGHA004_15",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KRACHI EAST",
+    "PARTS__": 1,
+    "POINTS__": 740,
+    "LENGTH__": 1045949.8007,
+    "d_id": "04-15"
+  },
+  {
+    "AREA_KM": 2733.0123,
+    "ID__": "AFRGHA004_17",
+    "NAME2__": "VOLTA",
+    "NAME1__": "NKWANTA SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 742,
+    "LENGTH__": 1118511.4674,
+    "d_id": "04-17"
+  },
+  {
+    "AREA_KM": 409.3583,
+    "ID__": "AFRGHA006_19",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AFIGYA KWABRE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 528941.2984,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 251.5098,
+    "ID__": "AFRGHA006_13",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ATWIMA KWANWOMA",
+    "PARTS__": 1,
+    "POINTS__": 2019,
+    "LENGTH__": 339875.876,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 416.7864,
+    "ID__": "AFRGHA006_21",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AFIGYA SEKYERE",
+    "PARTS__": 1,
+    "POINTS__": 755,
+    "LENGTH__": 412657.2122,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 239.122,
+    "ID__": "AFRGHA006_23",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "SEKYERE EAST",
+    "PARTS__": 1,
+    "POINTS__": 744,
+    "LENGTH__": 321558.0847,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1631.0521,
+    "ID__": "AFRGHA006_25",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "SEKYERE CENTRAL",
+    "PARTS__": 1,
+    "POINTS__": 752,
+    "LENGTH__": 801880.6068,
+    "d_id": "06-25"
+  },
+  {
+    "AREA_KM": 945.9115,
+    "ID__": "AFRGHA006_27",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "OFFINSO NORTH",
+    "PARTS__": 1,
+    "POINTS__": 742,
+    "LENGTH__": 748458.5025,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 585.6586,
+    "ID__": "AFRGHA006_18",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "OFFINSO MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 749,
+    "LENGTH__": 485682.9222,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 220.6714,
+    "ID__": "AFRGHA006_05",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "OBUASI MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 748,
+    "LENGTH__": 250711.8528,
+    "d_id": "06-05"
+  },
+  {
+    "AREA_KM": 122.9576,
+    "ID__": "AFRGHA006_20",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "KWABRE",
+    "PARTS__": 1,
+    "POINTS__": 748,
+    "LENGTH__": 187616.038,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1340.1292,
+    "ID__": "AFRGHA006_26",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "EJURA SEKYE DUMASE",
+    "PARTS__": 1,
+    "POINTS__": 750,
+    "LENGTH__": 752556.4661,
+    "d_id": "06-26"
+  },
+  {
+    "AREA_KM": 579.1785,
+    "ID__": "AFRGHA006_15",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ATWIMA NWABIAGYA",
+    "PARTS__": 1,
+    "POINTS__": 755,
+    "LENGTH__": 627778.3769,
+    "d_id": "06-15"
+  },
+  {
+    "AREA_KM": 1883.2143,
+    "ID__": "AFRGHA006_01",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ATWIMA MPONUA",
+    "PARTS__": 1,
+    "POINTS__": 756,
+    "LENGTH__": 1226130.9928,
+    "d_id": "06-01"
+  },
+  {
+    "AREA_KM": 1328.199,
+    "ID__": "AFRGHA006_04",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ADANSI SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 753,
+    "LENGTH__": 1029095.1946,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 853.63,
+    "ID__": "AFRGHA006_06",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ADANSI NORTH",
+    "PARTS__": 1,
+    "POINTS__": 747,
+    "LENGTH__": 807329.9045,
+    "d_id": "06-06"
+  },
+  {
+    "AREA_KM": 568.7799,
+    "ID__": "AFRGHA006_08",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "BOSOME FREHO",
+    "PARTS__": 1,
+    "POINTS__": 753,
+    "LENGTH__": 652620.6473,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1190.7348,
+    "ID__": "AFRGHA006_16",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AHAFO ANO SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 856045.8527,
+    "d_id": "06-16"
+  },
+  {
+    "AREA_KM": 535.2486,
+    "ID__": "AFRGHA006_07",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "BEKWAI MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 747,
+    "LENGTH__": 523373.6424,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 422.458,
+    "ID__": "AFRGHA006_12",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "BOSOMTWE /ATWIMA / KWANWOMA",
+    "PARTS__": 1,
+    "POINTS__": 2020,
+    "LENGTH__": 424996.4245,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 670.1866,
+    "ID__": "AFRGHA006_22",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "MAMPONG MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 751,
+    "LENGTH__": 548866.3607,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 521.1648,
+    "ID__": "AFRGHA002_05",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "AJUMAKO-ENYAN-ESIAM",
+    "PARTS__": 1,
+    "POINTS__": 734,
+    "LENGTH__": 469161.25071,
+    "d_id": "02-05"
+  },
+  {
+    "AREA_KM": 458.4875,
+    "ID__": "AFRGHA002_06",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "GOMOA WEST",
+    "PARTS__": 1,
+    "POINTS__": 731,
+    "LENGTH__": 427961.51962,
+    "d_id": "02-06"
+  },
+  {
+    "AREA_KM": 356.1636,
+    "ID__": "AFRGHA002_11",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "AGONA WEST",
+    "PARTS__": 1,
+    "POINTS__": 728,
+    "LENGTH__": 388661.25868,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 327.3094,
+    "ID__": "AFRGHA002_10",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "AGONA EAST",
+    "PARTS__": 1,
+    "POINTS__": 730,
+    "LENGTH__": 304985.82592,
+    "d_id": "02-10"
+  },
+  {
+    "AREA_KM": 1004.6006,
+    "ID__": "AFRGHA002_14",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "ASSIN NORTH",
+    "PARTS__": 1,
+    "POINTS__": 729,
+    "LENGTH__": 720740.61959,
+    "d_id": "02-14"
+  },
+  {
+    "AREA_KM": 1100.8965,
+    "ID__": "AFRGHA002_13",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "ASSIN SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 732,
+    "LENGTH__": 616715.70479,
+    "d_id": "02-13"
+  },
+  {
+    "AREA_KM": 772.4591,
+    "ID__": "AFRGHA002_12",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "ASIKUMA / ODOBEN / BRAKWA",
+    "PARTS__": 1,
+    "POINTS__": 733,
+    "LENGTH__": 474626.94301,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 85.1929,
+    "ID__": "AFRGHA002_07",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "EFFUTU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 150930.0643,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 539.69,
+    "ID__": "AFRGHA002_08",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "GOMOA EAST",
+    "PARTS__": 1,
+    "POINTS__": 733,
+    "LENGTH__": 542370.19014,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 376.6863,
+    "ID__": "AFRGHA002_03",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "ABURA / ASEBU / KWAMANKESE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 491456.69038,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1495.4218,
+    "ID__": "AFRGHA001_01",
+    "NAME2__": "WESTERN",
+    "NAME1__": "JOMORO",
+    "PARTS__": 1,
+    "POINTS__": 724,
+    "LENGTH__": 901082.7613,
+    "d_id": "01-01"
+  },
+  {
+    "AREA_KM": 995.8208,
+    "ID__": "AFRGHA001_02",
+    "NAME2__": "WESTERN",
+    "NAME1__": "ELLEMBELLE",
+    "PARTS__": 1,
+    "POINTS__": 725,
+    "LENGTH__": 677591.2098,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1809.2113,
+    "ID__": "AFRGHA001_09",
+    "NAME2__": "WESTERN",
+    "NAME1__": "PRESTEA / HUNI VALLEY",
+    "PARTS__": 1,
+    "POINTS__": 716,
+    "LENGTH__": 935312.3602,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 554.2309,
+    "ID__": "AFRGHA001_04",
+    "NAME2__": "WESTERN",
+    "NAME1__": "AHANTA WEST",
+    "PARTS__": 1,
+    "POINTS__": 723,
+    "LENGTH__": 522007.5136,
+    "d_id": "01-04"
+  },
+  {
+    "AREA_KM": 1083.9501,
+    "ID__": "AFRGHA001_03",
+    "NAME2__": "WESTERN",
+    "NAME1__": "NZEMA EAST",
+    "PARTS__": 1,
+    "POINTS__": 721,
+    "LENGTH__": 764248.9099,
+    "d_id": "01-03"
+  },
+  {
+    "AREA_KM": 905.2402,
+    "ID__": "AFRGHA001_08",
+    "NAME2__": "WESTERN",
+    "NAME1__": "TARKWA NSUAEM",
+    "PARTS__": 1,
+    "POINTS__": 725,
+    "LENGTH__": 669710.0603,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1120.0073,
+    "ID__": "AFRGHA001_13",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SEFWI AKONTOMBRA",
+    "PARTS__": 1,
+    "POINTS__": 727,
+    "LENGTH__": 737286.4729,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 191.6652,
+    "ID__": "AFRGHA001_05",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SEKONDI TAKORADI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 273624.8489,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 611.8028,
+    "ID__": "AFRGHA005_15",
+    "NAME2__": "EASTERN",
+    "NAME1__": "AKYEM MANSA",
+    "PARTS__": 1,
+    "POINTS__": 707,
+    "LENGTH__": 594529.2578,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 795.7608,
+    "ID__": "AFRGHA005_19",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAHU SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 745,
+    "LENGTH__": 562037.8269,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 525.1727,
+    "ID__": "AFRGHA005_02",
+    "NAME2__": "EASTERN",
+    "NAME1__": "BIRIM MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 705,
+    "LENGTH__": 591622.7242,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 859.1112,
+    "ID__": "AFRGHA005_11",
+    "NAME2__": "EASTERN",
+    "NAME1__": "UPPER MANYA",
+    "PARTS__": 1,
+    "POINTS__": 711,
+    "LENGTH__": 494401.6846,
+    "d_id": "05-11"
+  },
+  {
+    "AREA_KM": 725.9941,
+    "ID__": "AFRGHA005_01",
+    "NAME2__": "EASTERN",
+    "NAME1__": "BIRIM SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 706,
+    "LENGTH__": 587634.6961,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 613.1448,
+    "ID__": "AFRGHA005_06",
+    "NAME2__": "EASTERN",
+    "NAME1__": "AKWAPEM NORTH",
+    "PARTS__": 1,
+    "POINTS__": 709,
+    "LENGTH__": 424233.5589,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 483.4166,
+    "ID__": "AFRGHA005_08",
+    "NAME2__": "EASTERN",
+    "NAME1__": "YILO KROBO",
+    "PARTS__": 1,
+    "POINTS__": 742,
+    "LENGTH__": 676617.7411,
+    "d_id": "05-08"
+  },
+  {
+    "AREA_KM": 1165.2987,
+    "ID__": "AFRGHA005_17",
+    "NAME2__": "EASTERN",
+    "NAME1__": "ATIWA",
+    "PARTS__": 1,
+    "POINTS__": 743,
+    "LENGTH__": 834902.2285,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 159.7002,
+    "ID__": "AFRGHA005_07",
+    "NAME2__": "EASTERN",
+    "NAME1__": "NEW JUABEN MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 710,
+    "LENGTH__": 229546.7435,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1098.757,
+    "ID__": "AFRGHA005_12",
+    "NAME2__": "EASTERN",
+    "NAME1__": "FANTEAKWA",
+    "PARTS__": 1,
+    "POINTS__": 740,
+    "LENGTH__": 672799.3843,
+    "d_id": "05-12"
+  },
+  {
+    "AREA_KM": 566.4806,
+    "ID__": "AFRGHA005_16",
+    "NAME2__": "EASTERN",
+    "NAME1__": "BIRIM NORTH",
+    "PARTS__": 1,
+    "POINTS__": 708,
+    "LENGTH__": 638951.4541,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 765.8766,
+    "ID__": "AFRGHA005_10",
+    "NAME2__": "EASTERN",
+    "NAME1__": "ASUOGYAMAN",
+    "PARTS__": 1,
+    "POINTS__": 746,
+    "LENGTH__": 553063.2742,
+    "d_id": "05-10"
+  },
+  {
+    "AREA_KM": 623.3116,
+    "ID__": "AFRGHA005_20",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAHU EAST",
+    "PARTS__": 1,
+    "POINTS__": 747,
+    "LENGTH__": 570861.5413,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 400.9004,
+    "ID__": "AFRGHA005_18",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAHU WEST",
+    "PARTS__": 1,
+    "POINTS__": 748,
+    "LENGTH__": 490373.5336,
+    "d_id": "05-18"
+  },
+  {
+    "AREA_KM": 833.7244,
+    "ID__": "AFRGHA001_15",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SEFWI BIBIANI-ANHWIASO BEKWAI",
+    "PARTS__": 1,
+    "POINTS__": 728,
+    "LENGTH__": 621975.3132,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 501.9369,
+    "ID__": "AFRGHA002_16",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "UPPER DENKYIRA EAST",
+    "PARTS__": 1,
+    "POINTS__": 735,
+    "LENGTH__": 573622.64587,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 849.6009,
+    "ID__": "AFRGHA006_03",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AMANSIE CENTRAL",
+    "PARTS__": 1,
+    "POINTS__": 752,
+    "LENGTH__": 813647.1008,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1230.9493,
+    "ID__": "AFRGHA006_02",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AMANSIE WEST",
+    "PARTS__": 1,
+    "POINTS__": 745,
+    "LENGTH__": 968218.1019,
+    "d_id": "06-02"
+  },
+  {
+    "AREA_KM": 579.2135,
+    "ID__": "AFRGHA002_17",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "UPPER DENKYIRA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 624757.52236,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 122.3809,
+    "ID__": "AFRGHA002_02",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "CAPE COAST METRO",
+    "PARTS__": 1,
+    "POINTS__": 729,
+    "LENGTH__": 278237.08328,
+    "d_id": "02-02"
+  },
+  {
+    "AREA_KM": 452.4771,
+    "ID__": "AFRGHA002_01",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "KOMENDA EDNA EGUAFO / ABIREM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 350408.22491,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1011.5642,
+    "ID__": "AFRGHA001_14",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SEFWI-WIAWSO",
+    "PARTS__": 1,
+    "POINTS__": 725,
+    "LENGTH__": 749433.8383,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 923.6335,
+    "ID__": "AFRGHA007_01",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "ASUNAFO SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 764,
+    "LENGTH__": 918178.7291,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 922.6554,
+    "ID__": "AFRGHA007_16",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "NKORANZA SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 760,
+    "LENGTH__": 553002.0544,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 6169.1793,
+    "ID__": "AFRGHA008_01",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "BOLE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1699846.5025,
+    "d_id": "08-01"
+  },
+  {
+    "AREA_KM": 304.3499,
+    "ID__": "AFRGHA005_09",
+    "NAME2__": "EASTERN",
+    "NAME1__": "LOWER MANYA",
+    "PARTS__": 1,
+    "POINTS__": 745,
+    "LENGTH__": 421886.3503,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 4887.8502,
+    "ID__": "AFRGHA007_22",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "KINTAMPO NORTH",
+    "PARTS__": 1,
+    "POINTS__": 763,
+    "LENGTH__": 1281869.8612,
+    "d_id": "07-22"
+  },
+  {
+    "AREA_KM": 2624.2883,
+    "ID__": "AFRGHA007_18",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "ATEBUBU AMANTIN",
+    "PARTS__": 1,
+    "POINTS__": 753,
+    "LENGTH__": 1052952.0596,
+    "d_id": "07-18"
+  },
+  {
+    "AREA_KM": 1132.8708,
+    "ID__": "AFRGHA008_06",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "KPANDAI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 776910.8945,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1098.9331,
+    "ID__": "AFRGHA004_18",
+    "NAME2__": "VOLTA",
+    "NAME1__": "NKWANTA NORTH",
+    "PARTS__": 1,
+    "POINTS__": 740,
+    "LENGTH__": 702001.7464,
+    "d_id": "04-18"
+  },
+  {
+    "AREA_KM": 1105.9086,
+    "ID__": "AFRGHA004_12",
+    "NAME2__": "VOLTA",
+    "NAME1__": "BIAKOYE",
+    "PARTS__": 1,
+    "POINTS__": 736,
+    "LENGTH__": 803037.8239,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 7555.0009,
+    "ID__": "AFRGHA008_04",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "GONJA CENTRAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 2160474.9903,
+    "d_id": "08-04"
+  },
+  {
+    "AREA_KM": 3220.7105,
+    "ID__": "AFRGHA007_20",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "PRU",
+    "PARTS__": 1,
+    "POINTS__": 754,
+    "LENGTH__": 1375389.5963,
+    "d_id": "07-20"
+  },
+  {
+    "AREA_KM": 2022.6315,
+    "ID__": "AFRGHA008_13",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "SAVELUGU NANTON",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1236993.6479,
+    "d_id": "08-13"
+  },
+  {
+    "AREA_KM": 3119.2974,
+    "ID__": "AFRGHA008_14",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "KARAGA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1480853.4897,
+    "d_id": "08-14"
+  },
+  {
+    "AREA_KM": 8340.1757,
+    "ID__": "AFRGHA008_05",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "EAST GONJA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 3013927.5788,
+    "d_id": "08-05"
+  },
+  {
+    "AREA_KM": 358.2528,
+    "ID__": "AFRGHA004_09",
+    "NAME2__": "VOLTA",
+    "NAME1__": "SOUTH DAYI",
+    "PARTS__": 1,
+    "POINTS__": 737,
+    "LENGTH__": 384952.0293,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 4297.1101,
+    "ID__": "AFRGHA010_03",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "WA EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1248115.3388,
+    "d_id": "10-03"
+  },
+  {
+    "AREA_KM": 1751.1592,
+    "ID__": "AFRGHA008_16",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "SABOBA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 917180.1712,
+    "d_id": "08-16"
+  },
+  {
+    "AREA_KM": 2674.0833,
+    "ID__": "AFRGHA008_15",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "GUSHIEGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1394513.8908,
+    "d_id": "08-15"
+  },
+  {
+    "AREA_KM": 2260.7849,
+    "ID__": "AFRGHA008_08",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "NANUMBA NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1519517.1527,
+    "d_id": "08-08"
+  },
+  {
+    "AREA_KM": 1789.1712,
+    "ID__": "AFRGHA008_07",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "NANUMBA SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1252333.5346,
+    "d_id": "08-07"
+  },
+  {
+    "AREA_KM": 1145.0379,
+    "ID__": "AFRGHA007_14",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "WENCHI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 826669.6452,
+    "d_id": "07-14"
+  },
+  {
+    "AREA_KM": 489.0231,
+    "ID__": "AFRGHA007_06",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "TANO SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 453696.6745,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 506.7123,
+    "ID__": "AFRGHA007_08",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "SUNYANI MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 758,
+    "LENGTH__": 532236.5364,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1153.2683,
+    "ID__": "AFRGHA006_09",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ASANTE AKIM SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 808706.0018,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 289.7833,
+    "ID__": "AFRGHA003_10",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "ADA EAST",
+    "PARTS__": 1,
+    "POINTS__": 738,
+    "LENGTH__": 366906.4166,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 968.3617,
+    "ID__": "AFRGHA003_09",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "SHAI OSU DOKU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 501880.5664,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 323.7207,
+    "ID__": "AFRGHA003_16",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "ADA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 313190.0613,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 622.1956,
+    "ID__": "AFRGHA003_15",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "NINGO PRAMPRAM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 443493.5427,
+    "d_id": "03-14"
+  },
+  {
+    "AREA_KM": 36.0329,
+    "ID__": "AFRGHA003_12",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "LA DADE KOTOPON",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 87811.8536,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 2610.3018,
+    "ID__": "AFRGHA001_12",
+    "NAME2__": "WESTERN",
+    "NAME1__": "AOWIN",
+    "PARTS__": 1,
+    "POINTS__": 727,
+    "LENGTH__": 1177858.2913,
+    "d_id": "01-12"
+  },
+  {
+    "AREA_KM": 400.1403,
+    "ID__": "AFRGHA001_20",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SUAMAN",
+    "PARTS__": 1,
+    "POINTS__": 727,
+    "LENGTH__": 334168.0128,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 783.5686,
+    "ID__": "AFRGHA001_22",
+    "NAME2__": "WESTERN",
+    "NAME1__": "BIA EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 529629.2575,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1287.2647,
+    "ID__": "AFRGHA001_17",
+    "NAME2__": "WESTERN",
+    "NAME1__": "BIA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 711247.0624,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 662.4044,
+    "ID__": "AFRGHA001_21",
+    "NAME2__": "WESTERN",
+    "NAME1__": "BODI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 566689.2815,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1369.9236,
+    "ID__": "AFRGHA001_16",
+    "NAME2__": "WESTERN",
+    "NAME1__": "JUABESO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 813385.4876,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 193.6718,
+    "ID__": "AFRGHA001_06",
+    "NAME2__": "WESTERN",
+    "NAME1__": "SHAMA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 261698.9021,
+    "d_id": "01-06"
+  },
+  {
+    "AREA_KM": 1651.9923,
+    "ID__": "AFRGHA001_07",
+    "NAME2__": "WESTERN",
+    "NAME1__": "WASSA EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 784093.7485,
+    "d_id": "01-07"
+  },
+  {
+    "AREA_KM": 524.5339,
+    "ID__": "AFRGHA001_18",
+    "NAME2__": "WESTERN",
+    "NAME1__": "MPOHOR",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 477704.1747,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1448.5558,
+    "ID__": "AFRGHA001_11",
+    "NAME2__": "WESTERN",
+    "NAME1__": "WASSA AMENFI WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1101160.0282,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1845.9316,
+    "ID__": "AFRGHA001_19",
+    "NAME2__": "WESTERN",
+    "NAME1__": "WASSA AMENFI CENTRAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1078048.5274,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 300.6621,
+    "ID__": "AFRGHA002_04",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "MFANTSIMAN",
+    "PARTS__": 1,
+    "POINTS__": 732,
+    "LENGTH__": 420282.0252,
+    "d_id": "02-04"
+  },
+  {
+    "AREA_KM": 276.6515,
+    "ID__": "AFRGHA002_19",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "EKUMFI",
+    "PARTS__": 1,
+    "POINTS__": 732,
+    "LENGTH__": 278338.12802,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 575.5032,
+    "ID__": "AFRGHA002_18",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "TWIFO LOWER DENKYIRA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 567668.21563,
+    "d_id": "02-15"
+  },
+  {
+    "AREA_KM": 955.3981,
+    "ID__": "AFRGHA002_15",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "TWIFO ATI-MORKWA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 619626.52276,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 244.4733,
+    "ID__": "AFRGHA002_09",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "AWUTU SENYA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 351876.58022,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 108.0042,
+    "ID__": "AFRGHA002_20",
+    "NAME2__": "CENTRAL",
+    "NAME1__": "AWUTU SENYA EAST MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 227767.14846,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 70.887,
+    "ID__": "AFRGHA003_13",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "LA NKWANTANANG MADINA",
+    "PARTS__": 1,
+    "POINTS__": 713,
+    "LENGTH__": 176730.885,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 85.6604,
+    "ID__": "AFRGHA003_03",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "GA EAST",
+    "PARTS__": 1,
+    "POINTS__": 713,
+    "LENGTH__": 193934.9599,
+    "d_id": "03-03"
+  },
+  {
+    "AREA_KM": 139.6743,
+    "ID__": "AFRGHA003_04",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "ACCRA METROPOLIS",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 221937.4617,
+    "d_id": "03-04"
+  },
+  {
+    "AREA_KM": 341.8381,
+    "ID__": "AFRGHA003_01",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "GA SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 715,
+    "LENGTH__": 424418.1179,
+    "d_id": "03-01"
+  },
+  {
+    "AREA_KM": 299.5778,
+    "ID__": "AFRGHA003_02",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "GA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 432263.4099,
+    "d_id": "03-02"
+  },
+  {
+    "AREA_KM": 48.9972,
+    "ID__": "AFRGHA003_11",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "GA CENTRAL MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 715,
+    "LENGTH__": 138907.9968,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 928.3569,
+    "ID__": "AFRGHA004_16",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KRACHI WEST",
+    "PARTS__": 1,
+    "POINTS__": 737,
+    "LENGTH__": 475112.4501,
+    "d_id": "04-16"
+  },
+  {
+    "AREA_KM": 1194.9004,
+    "ID__": "AFRGHA004_25",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KRACHI NCHUMURU",
+    "PARTS__": 1,
+    "POINTS__": 737,
+    "LENGTH__": 670734.7736,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 315.6521,
+    "ID__": "AFRGHA004_07",
+    "NAME2__": "VOLTA",
+    "NAME1__": "AGOTIME ZIOPE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 396621.5054,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 800.822,
+    "ID__": "AFRGHA004_21",
+    "NAME2__": "VOLTA",
+    "NAME1__": "ADAKLU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 492220.2761,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 535.9864,
+    "ID__": "AFRGHA004_05",
+    "NAME2__": "VOLTA",
+    "NAME1__": "AKATSI SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 553805.9468,
+    "d_id": "04-05"
+  },
+  {
+    "AREA_KM": 314.1498,
+    "ID__": "AFRGHA004_20",
+    "NAME2__": "VOLTA",
+    "NAME1__": "AKATSI NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 367578.6904,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 573.7836,
+    "ID__": "AFRGHA004_08",
+    "NAME2__": "VOLTA",
+    "NAME1__": "HO MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 563988.5061,
+    "d_id": "04-08"
+  },
+  {
+    "AREA_KM": 684.1711,
+    "ID__": "AFRGHA004_11",
+    "NAME2__": "VOLTA",
+    "NAME1__": "HOHOE MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 535422.9597,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1002.7894,
+    "ID__": "AFRGHA004_22",
+    "NAME2__": "VOLTA",
+    "NAME1__": "HO WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 931900.0809,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 553.0252,
+    "ID__": "AFRGHA004_23",
+    "NAME2__": "VOLTA",
+    "NAME1__": "AFADZATO SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 628431.8998,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 462.7711,
+    "ID__": "AFRGHA004_24",
+    "NAME2__": "VOLTA",
+    "NAME1__": "NORTH DAYI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 426002.3715,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 314.0743,
+    "ID__": "AFRGHA004_10",
+    "NAME2__": "VOLTA",
+    "NAME1__": "KPANDO MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 280254.6773,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1131.6425,
+    "ID__": "AFRGHA004_19",
+    "NAME2__": "VOLTA",
+    "NAME1__": "NORTH TONGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 664649.5644,
+    "d_id": "04-06"
+  },
+  {
+    "AREA_KM": 682.2245,
+    "ID__": "AFRGHA004_06",
+    "NAME2__": "VOLTA",
+    "NAME1__": "CENTRAL TONGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 593720.9168,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 174.9719,
+    "ID__": "AFRGHA005_05",
+    "NAME2__": "EASTERN",
+    "NAME1__": "NSAWAM ADOAGYIRI",
+    "PARTS__": 1,
+    "POINTS__": 712,
+    "LENGTH__": 215992.4132,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 224.1274,
+    "ID__": "AFRGHA005_23",
+    "NAME2__": "EASTERN",
+    "NAME1__": "AKWAPEM SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 712,
+    "LENGTH__": 321343.0401,
+    "d_id": "05-05"
+  },
+  {
+    "AREA_KM": 436.2501,
+    "ID__": "AFRGHA005_25",
+    "NAME2__": "EASTERN",
+    "NAME1__": "DENKYEMBOUR",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 496029.2899,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 803.4786,
+    "ID__": "AFRGHA005_14",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAEBIBIREM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 584961.7997,
+    "d_id": "05-14"
+  },
+  {
+    "AREA_KM": 3094.9554,
+    "ID__": "AFRGHA005_26",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAHU AFRAM PLAINS SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1177425.4865,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 2341.2847,
+    "ID__": "AFRGHA005_21",
+    "NAME2__": "EASTERN",
+    "NAME1__": "KWAHU AFRAM PLAINS NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 843074.1712,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 358.9866,
+    "ID__": "AFRGHA005_04",
+    "NAME2__": "EASTERN",
+    "NAME1__": "SUHUM MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 404985.3752,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 498.999,
+    "ID__": "AFRGHA005_24",
+    "NAME2__": "EASTERN",
+    "NAME1__": "AYENSUANO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 524386.6428,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 508.313,
+    "ID__": "AFRGHA005_13",
+    "NAME2__": "EASTERN",
+    "NAME1__": "EAST AKIM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 433680.5697,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 342.2992,
+    "ID__": "AFRGHA005_22",
+    "NAME2__": "EASTERN",
+    "NAME1__": "UPPER WEST AKIM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 355152.1279,
+    "d_id": "05-25"
+  },
+  {
+    "AREA_KM": 475.0264,
+    "ID__": "AFRGHA005_03",
+    "NAME2__": "EASTERN",
+    "NAME1__": "WEST AKIM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 454798.1747,
+    "d_id": "05-03"
+  },
+  {
+    "AREA_KM": 1210.2753,
+    "ID__": "AFRGHA007_04",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "DORMAA MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 649145.95,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 381.0036,
+    "ID__": "AFRGHA007_24",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "DORMAA WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 410471.3552,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1132.0207,
+    "ID__": "AFRGHA010_05",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "NADOWLI-KALEO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 626867.4936,
+    "d_id": "10-05"
+  },
+  {
+    "AREA_KM": 1456.1693,
+    "ID__": "AFRGHA010_10",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "DAFFIAMA BUSSIE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 760985.822,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 527.3726,
+    "ID__": "AFRGHA010_09",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "LAWRA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 536514.3476,
+    "d_id": "10-09"
+  },
+  {
+    "AREA_KM": 404.614,
+    "ID__": "AFRGHA010_11",
+    "NAME2__": "UPPER WEST",
+    "NAME1__": "NANDOM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 388444.5233,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 838.3853,
+    "ID__": "AFRGHA009_05",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "TALENSI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 731579.2345,
+    "d_id": "09-05"
+  },
+  {
+    "AREA_KM": 244.9439,
+    "ID__": "AFRGHA009_11",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "NABDAM",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 301712.2283,
+    "d_id": "09-12"
+  },
+  {
+    "AREA_KM": 1241.3953,
+    "ID__": "AFRGHA009_10",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BUILSA SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 871318.4095,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 816.4403,
+    "ID__": "AFRGHA009_01",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BUILSA NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 627247.4399,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 391.9084,
+    "ID__": "AFRGHA009_12",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BINDURI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 366738.0222,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 255.7469,
+    "ID__": "AFRGHA009_13",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "PUSIGA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 327673.4709,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 247.2372,
+    "ID__": "AFRGHA009_09",
+    "NAME2__": "UPPER EAST",
+    "NAME1__": "BAWKU MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 363775.9859,
+    "d_id": "09-09"
+  },
+  {
+    "AREA_KM": 4845.5042,
+    "ID__": "AFRGHA008_21",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "NORTH GONJA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1579441.8221,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 4715.852,
+    "ID__": "AFRGHA008_03",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "WEST GONJA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1467678.0054,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 2714.1048,
+    "ID__": "AFRGHA008_24",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "MION",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1465042.8237,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1446.3742,
+    "ID__": "AFRGHA008_10",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "YENDI MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 902292.9296,
+    "d_id": "08-10"
+  },
+  {
+    "AREA_KM": 1353.6555,
+    "ID__": "AFRGHA008_12",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "TOLON",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 836677.2767,
+    "d_id": "08-12"
+  },
+  {
+    "AREA_KM": 1541.0649,
+    "ID__": "AFRGHA008_22",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "KUMBUMGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1030322.4773,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 2610.4358,
+    "ID__": "AFRGHA008_20",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "WEST MAMPRUSI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1269609.5209,
+    "d_id": "08-20"
+  },
+  {
+    "AREA_KM": 2121.3132,
+    "ID__": "AFRGHA008_26",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "MAMPRUGU MOAGDURI",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 996672.4483,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1100.1338,
+    "ID__": "AFRGHA008_09",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "ZABZUGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 901640.4322,
+    "d_id": "08-09"
+  },
+  {
+    "AREA_KM": 1090.4644,
+    "ID__": "AFRGHA008_25",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "TATALE",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1120456.6097,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 4392.3874,
+    "ID__": "AFRGHA007_27",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "SENE EAST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1221073.5395,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 3262.0991,
+    "ID__": "AFRGHA007_19",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "SENE WEST",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 1089807.5902,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 936.3103,
+    "ID__": "AFRGHA007_03",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "ASUTIFI NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 600046.5715,
+    "d_id": "07-03"
+  },
+  {
+    "AREA_KM": 593.6603,
+    "ID__": "AFRGHA006_17",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "AHAFO ANO NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 565591.9207,
+    "d_id": "06-17"
+  },
+  {
+    "AREA_KM": 597.244,
+    "ID__": "AFRGHA007_23",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "ASUTIFI SOUTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 806770.6009,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 649.0714,
+    "ID__": "AFRGHA007_15",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "TECHIMAN MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 434364.2515,
+    "d_id": "07-15"
+  },
+  {
+    "AREA_KM": 389.4094,
+    "ID__": "AFRGHA007_25",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "TECHIMAN NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 364113.7212,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 2298.3457,
+    "ID__": "AFRGHA007_26",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "BANDA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 998751.0556,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1031.27,
+    "ID__": "AFRGHA007_12",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "JAMAN NORTH",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 560839.0364,
+    "d_id": "07-12"
+  },
+  {
+    "AREA_KM": 1829.8496,
+    "ID__": "AFRGHA007_13",
+    "NAME2__": "BRONG AHAFO",
+    "NAME1__": "TAIN",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 797838.3924,
+    "d_id": "07-13"
+  },
+  {
+    "AREA_KM": 576.5771,
+    "ID__": "AFRGHA006_24",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "SEKYERE AFRAM PLAINS",
+    "PARTS__": 1,
+    "POINTS__": 750,
+    "LENGTH__": 525106.9646,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 3525.0702,
+    "ID__": "AFRGHA006_30",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "SEKYERE AFRAM PLAINS NORTH",
+    "PARTS__": 1,
+    "POINTS__": 750,
+    "LENGTH__": 1631703.8871,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1125.6914,
+    "ID__": "AFRGHA006_29",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ASANTE AKIM NORTH",
+    "PARTS__": 1,
+    "POINTS__": 746,
+    "LENGTH__": 844691.9062,
+    "d_id": "06-28"
+  },
+  {
+    "AREA_KM": 300.238,
+    "ID__": "AFRGHA006_10",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ASANTE AKIM CENTRAL MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 746,
+    "LENGTH__": 410894.7761,
+    "d_id": "06-10"
+  },
+  {
+    "AREA_KM": 23.9149,
+    "ID__": "AFRGHA006_28",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "ASOKORE MAMPONG MUNICIPAL",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 89307.0962,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 214.2778,
+    "ID__": "AFRGHA006_14",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "KMA",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 353547.6677,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 582.4509,
+    "ID__": "AFRGHA006_11",
+    "NAME2__": "ASHANTI",
+    "NAME1__": "EJISU JUABEN",
+    "PARTS__": 1,
+    "POINTS__": 746,
+    "LENGTH__": 641115.7459,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 1557.9535,
+    "ID__": "AFRGHA001_10",
+    "NAME2__": "WESTERN",
+    "NAME1__": "WASSA AMENFI EAST",
+    "PARTS__": 1,
+    "POINTS__": 722,
+    "LENGTH__": 870188.2039,
+    "d_id": "01-10"
+  },
+  {
+    "AREA_KM": 87.8069,
+    "ID__": "AFRGHA003_08",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "TEMA METROPOLIS",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 163822.9606,
+    "d_id": "03-08"
+  },
+  {
+    "AREA_KM": 18.5456,
+    "ID__": "AFRGHA003_07",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "ASHAIMAN",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 62786.1667,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 239.859,
+    "ID__": "AFRGHA003_14",
+    "NAME2__": "GREATER ACCRA",
+    "NAME1__": "KPONE KATAMANSO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 347540.1011,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 646.9018,
+    "ID__": "AFRGHA008_11",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "TAMALE NORTH SUB METRO",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 558423.329,
+    "d_id": ""
+  },
+  {
+    "AREA_KM": 200.4191,
+    "ID__": "AFRGHA008_23",
+    "NAME2__": "NORTHERN",
+    "NAME1__": "SAGNERIGU",
+    "PARTS__": 1,
+    "POINTS__": 0,
+    "LENGTH__": 264026.3991,
+    "d_id": ""
+  }
+]
